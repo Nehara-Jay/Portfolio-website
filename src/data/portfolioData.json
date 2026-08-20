@@ -1,8 +1,8 @@
 {
   "personalInfo": {
-    "firstName": "your name",
+    "firstName": "Jay",
     "roles": ["Web Developer", "Data Scientist", ""],
-    "description": "Your custom description goes right here.",
+    "description": "I'm a data science undergraduate.",
     "profilePic": "/images/profile-pic.jpg",
     "logo": "/images/logo.svg",
     "resumeLink": "/resume.pdf"
