@@ -1,0 +1,63 @@
+{
+  "personalInfo": {
+    "firstName": "your name",
+    "roles": ["Web Developer", "Data Scientist", ""],
+    "description": "Your custom description goes right here.",
+    "profilePic": "/images/profile-pic.jpg",
+    "logo": "/images/logo.svg",
+    "resumeLink": "/resume.pdf"
+  },
+
+
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "percentage": 95
+    },
+    {
+      "name": "MERN Stack",
+      "percentage": 90
+    },
+    {
+      "name": "Data Science",
+      "percentage": 85
+    }
+  ],
+
+
+
+  "socialLinks": {
+    "github": "https://github.com/...",
+    "linkedin": "https://linkedin.com/in/...",
+    "instagram": "https://instagram.com/..."
+  },
+  "projects": [
+    {
+      "title": "Business Startup",
+      "category": "first",
+      "description": "Design & Development",
+      "imgUrl": "/images/project-img1.png",
+      "githubUrl": "https://github.com/...",
+      "demoUrl": "https://...",
+      "tags": ["MongoDB", "Express", "React", "Node.js"]
+    },
+    {
+      "title": "Business Startup",
+      "category": "second",
+      "description": "Design & Development",
+      "imgUrl": "/images/project-img2.png",
+      "githubUrl": "https://github.com/...",
+      "demoUrl": "https://...",
+      "tags": ["MongoDB", "Express", "React", "Node.js"]
+    },
+     {
+      "title": "Business Startup",
+      "category": "third",
+      "description": "Design & Development",
+      "imgUrl": "/images/project-img3.png",
+      "githubUrl": "https://github.com/...",
+      "demoUrl": "https://...",
+      "tags": ["MongoDB", "Express", "React", "Node.js"]
+    }
+  ]
+}
